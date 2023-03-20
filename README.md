@@ -1,8 +1,13 @@
 ![Header](https://github.com/DmytroU27/dmytrou27/blob/main/assets/flag_texture611.jpg)
+### Dmytro Ukrainskiy, QA engineer
 
-About me
+### Testing Documentation:
+- [Checklists](https://docs.google.com/spreadsheets/d/1tpYdbLxm-e62FXoh9qLfARWWDYZ2pTOZ/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
+- [Test Cases](https://docs.google.com/spreadsheets/d/1Cn0OqLjH8kkeRggeIFPO72cEK2pjVd4u/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/18g_mRvUGi4QYDblVxBJn9RBH-f4HlRXX/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
 
-### Languages and Tools
+
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=d5ad42 )
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=20d088)
 ![PyTest](https://img.shields.io/badge/PyTest-090909?style=for-the-badge&logo=PyTest&logoColor=009fe3)
@@ -23,4 +28,6 @@ About me
 ![Windows](https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=Windows&logoColor=0083dc)
 ![Android](https://img.shields.io/badge/Android-090909?style=for-the-badge&logo=Android&logoColor=2edf85)
 
-Contacts
+### My contacts:
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=28a7e8)](https://t.me/ukrainskiy_d)
+[![LinkedIN](https://img.shields.io/badge/LinkedIN-090909?style=for-the-badge&logo=LinkedIN&logoColor=0c64c5)](https://www.linkedin.com/in/dmytro-ukrainskiy-484583241/)
