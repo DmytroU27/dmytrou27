@@ -1,10 +1,13 @@
 ![Header](https://github.com/DmytroU27/dmytrou27/blob/main/assets/flag_texture611.jpg)
-### Dmytro Ukrainskiy, QA engineer
+### About me:
+My name is Dmitro and I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
 
 ### Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1tpYdbLxm-e62FXoh9qLfARWWDYZ2pTOZ/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1Cn0OqLjH8kkeRggeIFPO72cEK2pjVd4u/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
 - [Bug Reports](https://docs.google.com/spreadsheets/d/18g_mRvUGi4QYDblVxBJn9RBH-f4HlRXX/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
+### API testing collections:
+- [Postman collection](https://www.postman.com/dmytrou27/workspace/pet-store-backend-testing)
 
 
 ### Languages and Tools:
@@ -18,6 +21,7 @@
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=004fc6)
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge)
 ![YouTrack](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge)
+![Bugzilla](https://img.shields.io/badge/Bugzilla-090909?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=ff6c37)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=49a32b)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=193962)
