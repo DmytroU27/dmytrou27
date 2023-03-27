@@ -1,6 +1,6 @@
 ![Header](https://github.com/DmytroU27/dmytrou27/blob/main/assets/flag_texture611.jpg)
 ### About me:
-My name is Dmytro and I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
+I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
 
 ### Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1tpYdbLxm-e62FXoh9qLfARWWDYZ2pTOZ/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
@@ -17,6 +17,7 @@ My name is Dmytro and I am QA engineer who is eager to take on challenges and ex
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=20d088)
 ![PyTest](https://img.shields.io/badge/PyTest-090909?style=for-the-badge&logo=PyTest&logoColor=009fe3)
 ![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=00ae00)
+![Requests](https://img.shields.io/badge/Requests-090909?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=f05030)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=f7f7f7)
 ![AzureDevOps](https://img.shields.io/badge/AzureDevOps-090909?style=for-the-badge&logo=AzureDevOps&logoColor=0078d4 )
