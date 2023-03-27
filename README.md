@@ -8,6 +8,8 @@ My name is Dmitro and I am QA engineer who is eager to take on challenges and ex
 - [Bug Reports](https://docs.google.com/spreadsheets/d/18g_mRvUGi4QYDblVxBJn9RBH-f4HlRXX/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
 ### API testing collections:
 - [Postman collection](https://www.postman.com/dmytrou27/workspace/pet-store-backend-testing)
+### SQL:
+- [SQL queries (SELECT, JOIN)](https://drive.google.com/file/d/1BizxKo2lQaz1cfF0vB48YWdVfNFVuYQ3/view?usp=share_link)
 
 
 ### Languages and Tools:
