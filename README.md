@@ -1,6 +1,6 @@
 ![Header](https://github.com/DmytroU27/dmytrou27/blob/main/assets/flag_texture611.jpg)
 ### About me:
-My name is Dmitro and I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
+My name is Dmytro and I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
 
 ### Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1tpYdbLxm-e62FXoh9qLfARWWDYZ2pTOZ/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
