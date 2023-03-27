@@ -2,6 +2,9 @@
 ### About me:
 I am QA engineer who is eager to take on challenges and expand my knowledge in software testing. I am confident in my testing skills, as well as my ability to work in a team and quickly learn new technologies.
 
+### QA automation:
+- [API testing with Python, PyTest, Requests](https://github.com/DmytroU27/reqres_api_testing)
+- [UI testing with Python, PyTest, Selenium](https://github.com/DmytroU27/selenium_python_study)
 ### Testing Documentation:
 - [Checklists](https://docs.google.com/spreadsheets/d/1tpYdbLxm-e62FXoh9qLfARWWDYZ2pTOZ/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1Cn0OqLjH8kkeRggeIFPO72cEK2pjVd4u/edit?usp=share_link&ouid=100301667692885198206&rtpof=true&sd=true)
